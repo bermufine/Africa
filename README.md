@@ -31,71 +31,66 @@
 
 {"descriptions":"ERYTREA","source":["http://89.146.99/ERYTREA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3Mzlf/erytrea.png","titles":"ERYTREA"},
 
+{"descriptions":"ETHIOPIA","source":["http://89.1.99:80/ETHIOPIA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjVf/ethiopia.png","titles":"ETHIOPIA"},
+
+{"descriptions":"GABON","source":["https://5caa595d94/GABON/playlist.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4Mjdf/gabon.png","titles":"GABON"},
+
+{"descriptions":"GAMBIA","source":["http://89.146.99/GAMBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NDJf/Gambia.png","titles":"GAMBIA"},
+
+{"descriptions":"GHANA","source":["http://51.122:8080/GHANA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjJf/ghana.png","titles":"GHANA"},
+
+{"descriptions":"GUINEA","source":["http://51.122:8080/GUINEA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTdf/guinea.png","titles":"GUINEA"},
+
+{"descriptions":"KENYA","source":["http://51.122:8080/KENYA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTRf/kenya.jpeg","titles":"KENYA"},
+
+{"descriptions":"LIBERIA","source":["http://51.122:8080/LIBERIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTZf/liberia.png","titles":"LIBERIA"},
+
+{"descriptions":"LYBIA","source":["http://51.122:8080/LYBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDBf/Libya.png","titles":"LYBIA"},
+
+{"descriptions":"MADAGASCAR","source":["http://51.122:8080/MADAGASCAR/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3Mzdf/Madagascar.jpeg","titles":"MADAGASCAR"},
+
+{"descriptions":"MALAWI","source":["http://51.122:8080/MALAWI/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTRf/Malawi.png","titles":"MALAWI"},
+
+{"descriptions":"MALI","source":["http://51.122:8080/MALI/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTJf/Mali.png","titles":"MALI"},
+
+{"descriptions":"MOROCCO","source":["http://51.122:8080/MOROCCO/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MTVf/marocco.png","titles":"MOROCCO"},
+
+{"descriptions":"MAURITANIA","source":["http://51.122:8080/MAURITANIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3ODRf/Mauritania.png","titles":"MAURITANIA"},
+
+{"descriptions":"MOZAMBIQUE","source":["http://51.122:8080/MOZAMBIQUE/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTdf/Mozambique.png","titles":"MOZAMBIQUE"},
+
+{"descriptions":"NAMIBIA","source":["http://51.122:8080/NAMIBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjBf/namibia.png","titles":"NAMIBIA"},
+
+{"descriptions":"NIGER","source":["http://51.122:8080/NIGER/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MzFf/niger.png","titles":"NIGER"},
+
+{"descriptions":"NIGERIA","source":["http://51.122:8080/NIGERIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MzBf/nigeria.jpeg","titles":"NIGERIA"},
+
+{"descriptions":"RWANDA","source":["http://51.122:8080/RWANDA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTBf/rwanda.png","titles":"RWANDA"},
+
+{"descriptions":"SENEGAL","source":["http://51.122:8080/SENEGAL/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjRf/senegal.png","titles":"SENEGAL"},
+
+{"descriptions":"SIERRA","source":["http://51.122:8080/SIERRA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTBf/Sierra_Leone.png","titles":"SIERRA LEONNE"},
+
+{"descriptions":"SOMALIA","source":["http://51.122:8080/SOMALIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3Njdf/somalia.png","titles":"SOMALIA"},
+
+{"descriptions":"SOUTHAFRICA","source":["http://51.122:8080/SOUTHAFRICA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NDFf/South_Africa.png","titles":"SOUTH AFRICA"},
+
+{"descriptions":"SUDAN","source":["http://51.122:8080/SUDAN/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NDhf/sudan.jpeg","titles":"SUDAN"},
+
+{"descriptions":"TANZANIA","source":["http://51.122:8080/TANZANIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzJf/tanzania.png","titles":"TANZANIA"},
+
+{"descriptions":"TOGO","source":["http://51.122:8080/TOGO/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTJf/Togo.png","titles":"TOGO"},
+
+{"descriptions":"TOGO","source":["http://51.122:8080/TOGO/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTJf/Togo.png","titles":"TOGO"},
 
 
-https://od.lk/s/M18yOTU0MzA3NjVf/ethiopia.png
 
-https://od.lk/s/M18yOTU0MzA4Mjdf/gabon.png
-
-https://od.lk/s/M18yOTU0MzA3NDJf/Gambia.png
-
-https://od.lk/s/M18yOTU0MzA3NjJf/ghana.png
-
-https://od.lk/s/M18yOTU0MzA3OTdf/guinea.png
-
-https://od.lk/s/M18yOTU0MzA3NTRf/kenya.jpeg
-
-https://od.lk/s/M18yOTU0MzA3OTZf/liberia.png
-
-https://od.lk/s/M18yOTU0MzA4MDBf/Libya.png
-
-https://od.lk/s/M18yOTU0MzA3Mzdf/Madagascar.jpeg
-
-https://od.lk/s/M18yOTU0MzA3OTRf/Malawi.png
-
-https://od.lk/s/M18yOTU0MzA3OTJf/Mali.png
-
-https://od.lk/s/M18yOTU0MzA4MTVf/marocco.png
-
-https://od.lk/s/M18yOTU0MzA3ODRf/Mauritania.png
-
-https://od.lk/s/M18yOTU0MzA3NTdf/Mozambique.png
-
-https://od.lk/s/M18yOTU0MzA3NjBf/namibia.png
-
-https://od.lk/s/M18yOTU0MzA4MzFf/niger.png
-
-https://od.lk/s/M18yOTU0MzA4MzBf/nigeria.jpeg
-
-https://od.lk/s/M18yOTU0MzA3NTBf/rwanda.png
-
-https://od.lk/s/M18yOTU0MzA3NjRf/senegal.png
-
-https://od.lk/s/M18yOTU0MzA3OTBf/Sierra_Leone.png
-
-https://od.lk/s/M18yOTU0MzA3Njdf/somalia.png
-
-https://od.lk/s/M18yOTU0MzA4NDFf/South_Africa.png
-
-https://od.lk/s/M18yOTU0MzA3NDhf/sudan.jpeg
-
-https://od.lk/s/M18yOTU0MzA3NzJf/tanzania.png
-
-https://od.lk/s/M18yOTU0MzA3NTJf/Togo.png
-
-https://od.lk/s/M18yOTU0MzA4MDZf/Tunisia.png
 
 https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png
 
+
+
 https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png
-
-{"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"MOCAMBICA"},
-
-{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865 / Tel +447305498667 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"SOMALIA"},
-
-{"descriptions":"Canal Numérique Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://89.163.146.99/CN-TV_CANAL/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5MzA3MjFf/Canalnumeriqimue.jpg","titles":"GHANA"},
-
-{"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["http://51.254.199.122:8080/MoliereTV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"TCHAD"},
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"NIGER"},
 
