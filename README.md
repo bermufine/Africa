@@ -81,16 +81,18 @@
 
 {"descriptions":"TOGO","source":["http://51.122:8080/TOGO/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTJf/Togo.png","titles":"TOGO"},
 
-{"descriptions":"TOGO","source":["http://51.122:8080/TOGO/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTJf/Togo.png","titles":"TOGO"},
+{"descriptions":"TUNISIA","source":["http://51.122:8080/TUNISIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDZf/Tunisia.png","titles":"TUNISIA"},
+
+{"descriptions":"UGANDA","source":["http://51.122:8080/UGANDA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png","titles":"UGANDA"},
+
+{"descriptions":"ZAMBIA","source":["http://51.122:8080/ZAMBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png","titles":"ZAMBIA"},
+
+{"descriptions":"ZAMBIA","source":["http://51.122:8080/ZAMBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzZf/Zimbabwe.png","titles":"ZAMBIA"},
 
 
 
 
-https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png
 
-
-
-https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"NIGER"},
 
