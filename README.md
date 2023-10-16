@@ -1,17 +1,92 @@
 # Africa
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945..","source":["http://69.64.57.208/rtnc/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"R.D.CONGO"},
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"ALGERIA","source":["http://69.64.57.208/rtnc/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDlf/algeria.png","titles":"ALGERIA"},
 
-{"descriptions":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","source":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titles":"ANGOLA"},
+{"descriptions":"ANGOLA","source":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MTRf/angola.jpeg","titles":"ANGOLA"},
 
-{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"TANZANIA"},
+{"descriptions":"BENIN","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MjRf/Benin.png","titles":"BENIN"},
 
-{"descriptions":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","source":["http://51.254.199.122:8080/bossbrothersTV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","titles":"KENYA"},
+{"descriptions":"BOTSWANA","source":["http://51.254.199.122:8080/bossbrothersTV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NThf/Botswana.png","titles":"BOTSWANA"},
 
-{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE4OTAwOTlf/francophonie.jpg","titles":"TUNISIA"},
+{"descriptions":"BURKINA FASSO.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MjBf/Burkina_Faso.png","titles":"BURKINA FASSO"},
 
-{"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://stream.telepack.net/evitv/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"LYBIA"},
+{"descriptions":"BURUNDI.","source":["https://stream.telepack.net/evitv/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NjZf/burundi.png","titles":"BURUNDI"},
 
-{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"EGYPT"},
+{"descriptions":"CAMEROON","source":["https://live-onetv.eu:5866/hls/Clive1.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MzZf/cameroon.png","titles":"CAMEROON"},
+
+
+https://od.lk/s/M18yOTU0MzA3OTFf/Cape_Verde.png
+
+https://od.lk/s/M18yOTU0MzA3NTVf/Central_Africa.png
+
+https://od.lk/s/M18yOTU0MzA3NDZf/Chad.jpg
+
+https://od.lk/s/M18yOTU0MzA4NDRf/congobrazza.jpeg
+
+https://od.lk/s/M18yOTU0MzA3Njlf/coted_ivoire.png
+
+https://od.lk/s/M18yOTU0MzA3NDFf/djibouti.png
+
+https://od.lk/s/M18yOTU0MzA4Mzlf/DRCongo.png
+
+https://od.lk/s/M18yOTU0MzA4MTFf/Egypt.png
+
+https://od.lk/s/M18yOTU0MzA3Mzlf/erytrea.png
+
+https://od.lk/s/M18yOTU0MzA3NjVf/ethiopia.png
+
+https://od.lk/s/M18yOTU0MzA4Mjdf/gabon.png
+
+https://od.lk/s/M18yOTU0MzA3NDJf/Gambia.png
+
+https://od.lk/s/M18yOTU0MzA3NjJf/ghana.png
+
+https://od.lk/s/M18yOTU0MzA3OTdf/guinea.png
+
+https://od.lk/s/M18yOTU0MzA3NTRf/kenya.jpeg
+
+https://od.lk/s/M18yOTU0MzA3OTZf/liberia.png
+
+https://od.lk/s/M18yOTU0MzA4MDBf/Libya.png
+
+https://od.lk/s/M18yOTU0MzA3Mzdf/Madagascar.jpeg
+
+https://od.lk/s/M18yOTU0MzA3OTRf/Malawi.png
+
+https://od.lk/s/M18yOTU0MzA3OTJf/Mali.png
+
+https://od.lk/s/M18yOTU0MzA4MTVf/marocco.png
+
+https://od.lk/s/M18yOTU0MzA3ODRf/Mauritania.png
+
+https://od.lk/s/M18yOTU0MzA3NTdf/Mozambique.png
+
+https://od.lk/s/M18yOTU0MzA3NjBf/namibia.png
+
+https://od.lk/s/M18yOTU0MzA4MzFf/niger.png
+
+https://od.lk/s/M18yOTU0MzA4MzBf/nigeria.jpeg
+
+https://od.lk/s/M18yOTU0MzA3NTBf/rwanda.png
+
+https://od.lk/s/M18yOTU0MzA3NjRf/senegal.png
+
+https://od.lk/s/M18yOTU0MzA3OTBf/Sierra_Leone.png
+
+https://od.lk/s/M18yOTU0MzA3Njdf/somalia.png
+
+https://od.lk/s/M18yOTU0MzA4NDFf/South_Africa.png
+
+https://od.lk/s/M18yOTU0MzA3NDhf/sudan.jpeg
+
+https://od.lk/s/M18yOTU0MzA3NzJf/tanzania.png
+
+https://od.lk/s/M18yOTU0MzA3NTJf/Togo.png
+
+https://od.lk/s/M18yOTU0MzA4MDZf/Tunisia.png
+
+https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png
+
+https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png
 
 {"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ,  comme Romains 10: 9 - 10 dit: 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"RWANDA"},
 
@@ -69,8 +144,6 @@
 
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"NAMIBIA"},
 
-{"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"ZIMBABWE"},
-
 {"descriptions":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","source":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titles":"MALAWI"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"SOUTH AFRICA"},
@@ -87,4 +160,8 @@
 
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"CAPE VERDE"},
 
-{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"DJIBOUTI"}]}]}
+{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"DJIBOUTI"},
+
+
+
+{"descriptions":"Digital","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzZf/Zimbabwe.png","titles":"ZIMBABWE"}]}]}
