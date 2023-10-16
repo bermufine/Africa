@@ -1,36 +1,37 @@
 # Africa
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"ALGERIA","source":["http://69.64.57.208/rtnc/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDlf/algeria.png","titles":"ALGERIA"},
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"ALGERIA","source":["http://69.64.208/algeria/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDlf/algeria.png","titles":"ALGERIA"},
 
-{"descriptions":"ANGOLA","source":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MTRf/angola.jpeg","titles":"ANGOLA"},
+{"descriptions":"ANGOLA","source":["https://tv.angola/STREAM1/index.m389"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MTRf/angola.jpeg","titles":"ANGOLA"},
 
-{"descriptions":"BENIN","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MjRf/Benin.png","titles":"BENIN"},
+{"descriptions":"BENIN","source":["http://85.234.234:8080//benin/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MjRf/Benin.png","titles":"BENIN"},
 
-{"descriptions":"BOTSWANA","source":["http://51.254.199.122:8080/bossbrothersTV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NThf/Botswana.png","titles":"BOTSWANA"},
+{"descriptions":"BOTSWANA","source":["http://51.122:8080/botswana/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NThf/Botswana.png","titles":"BOTSWANA"},
 
-{"descriptions":"BURKINA FASSO.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MjBf/Burkina_Faso.png","titles":"BURKINA FASSO"},
+{"descriptions":"BURKINA FASSO.","source":["http://89.163.99/burkina/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MjBf/Burkina_Faso.png","titles":"BURKINA FASSO"},
 
-{"descriptions":"BURUNDI.","source":["https://stream.telepack.net/evitv/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NjZf/burundi.png","titles":"BURUNDI"},
+{"descriptions":"BURUNDI.","source":["https://stream.net/burundi/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NjZf/burundi.png","titles":"BURUNDI"},
 
-{"descriptions":"CAMEROON","source":["https://live-onetv.eu:5866/hls/Clive1.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MzZf/cameroon.png","titles":"CAMEROON"},
+{"descriptions":"CAMEROON","source":["https://live.5866/hls/cameroon.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MzZf/cameroon.png","titles":"CAMEROON"},
+
+{"descriptions":"CAPE VERDE","source":["https://tvstudio.3757/capeverde/play.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTFf/Cape_Verde.png","titles":"CAPE VERDE"},
+
+{"descriptions":"CENTRAL AFRICA.","source":["http://51.122:8080/centralafrica/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTVf/Central_Africa.png","titles":"CENTRE AFRIQUE"},
+
+{"descriptions":"TCHAD","source":["http://51.122:8080/chad/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NDZf/Chad.jpg","titles":"CHAD"},
+
+{"descriptions":"CONGO BRAZZA","source":["http://89.146.99/brazza/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NDRf/congobrazza.jpeg","titles":"CONGO BRAZZA"},
+
+{"descriptions":"R.D.CONGO","source":["http://85.234:8080/Kinshasa/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4Mzlf/DRCongo.png","titles":"CONGO KINSHASA"},
+
+{"descriptions":"COTE D'IVOIRE","source":["http://51.3:8080/IVOIRE/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3Njlf/coted_ivoire.png","titles":"COTE D'IVOIRE"},
+
+{"descriptions":"DJIBOUTI.","source":["http://89.146.99/DJIBOUTI/track1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NDFf/djibouti.png","titles":"DJIBOUTI"},
+
+{"descriptions":"EGYPTE.","source":["http://51.122:8080/EGYPT/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MTFf/Egypt.png","titles":"EGYPT"},
+
+{"descriptions":"ERYTREA","source":["http://89.146.99/ERYTREA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3Mzlf/erytrea.png","titles":"ERYTREA"},
 
 
-https://od.lk/s/M18yOTU0MzA3OTFf/Cape_Verde.png
-
-https://od.lk/s/M18yOTU0MzA3NTVf/Central_Africa.png
-
-https://od.lk/s/M18yOTU0MzA3NDZf/Chad.jpg
-
-https://od.lk/s/M18yOTU0MzA4NDRf/congobrazza.jpeg
-
-https://od.lk/s/M18yOTU0MzA3Njlf/coted_ivoire.png
-
-https://od.lk/s/M18yOTU0MzA3NDFf/djibouti.png
-
-https://od.lk/s/M18yOTU0MzA4Mzlf/DRCongo.png
-
-https://od.lk/s/M18yOTU0MzA4MTFf/Egypt.png
-
-https://od.lk/s/M18yOTU0MzA3Mzlf/erytrea.png
 
 https://od.lk/s/M18yOTU0MzA3NjVf/ethiopia.png
 
@@ -87,24 +88,6 @@ https://od.lk/s/M18yOTU0MzA4MDZf/Tunisia.png
 https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png
 
 https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png
-
-{"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ,  comme Romains 10: 9 - 10 dit: 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"RWANDA"},
-
-{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"MOROCCO"},
-
-{"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"SENEGAL"},
-
-{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://89.163.146.99/B-ONE-STREAM1/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"UGANDA"},
-
-{"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"ZAMBIA"},
-
-{"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.15.3.133:8080/VERITETV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"CAMEROON"},
-
-{"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOGO"},
-
-{"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"NIGERIA"},
-
-{"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"BENIN"},
 
 {"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"MOCAMBICA"},
 
