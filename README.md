@@ -87,7 +87,7 @@
 
 {"descriptions":"UGANDA","source":["http://51.122:8080/UGANDA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png","titles":"UGANDA"},
 
-{"descriptions":"Democratic Republica of SAHARA WESTERN","source":["https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png","titles":"W-SAHARA"},
+{"descriptions":"Democratic Republica of SAHARA WESTERN","source":["https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMjkxNDRf/Flag_Sahrawi_Arab_Democratic_Republic.png","titles":"W-SAHARA"},
 
 {"descriptions":"ZAMBIA","source":["http://51.122:8080/ZAMBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png","titles":"ZAMBIA"},
 
