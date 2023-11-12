@@ -47,6 +47,8 @@
 
 {"descriptions":"GUINEA","source":["http://51.122:8080/GUINEA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTdf/guinea.png","titles":"GUINEA"},
 
+{"descriptions":"GUINEA","source":["http://51.122:8080/GUINEA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNzI4MDNf/EquatorialGuinea.png","titles":"GUINEE EQUATORIAL"},
+
 {"descriptions":"IL MAURICE","source":["http://51.122:8080/GUINEA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDJf/ilmaurice.png","titles":"IL MAURICE"},
 
 {"descriptions":"KENYA","source":["http://51.122:8080/KENYA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTRf/kenya.jpeg","titles":"KENYA"},
